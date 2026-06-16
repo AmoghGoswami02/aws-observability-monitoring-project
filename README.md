@@ -1,92 +1,36 @@
-\# AWS Observability Monitoring Project
-
-
-
-\## Tech Stack
-
-
-
-\* AWS EC2
-
-\* Prometheus
-
-\* Grafana
-
-\* Node Exporter
-
-\* Nginx Exporter
-
-\* Nginx
-
-
-
-\## Architecture
-
-
-
-Monitoring Server:
-
-
-
-\* Prometheus
-
-\* Grafana
-
-
-
-Application Server:
-
-
-
-\* Nginx
-
-\* Node Exporter
-
-\* Nginx Exporter
-
-
-
-\## Metrics Monitored
-
-
-
-\* CPU Usage
-
-\* Memory Usage
-
-\* Disk Usage
-
-\* Network Usage
-
-\* Nginx Requests
-
-\* Active Connections
-
-
-
-\## Alerting
-
-
-
-\* High CPU Usage Alert
-
-\* Nginx Availability Monitoring
-
-
-
 \## Screenshots
 
 
 
-Add screenshots in the screenshots folder.
+\### Prometheus Targets
 
 
 
-\## Author
+!\[Prometheus Targets](screenshots/prometheus-targets.png.png)
 
 
 
-Shankar
+\### Grafana Dashboard
+
+
+
+!\[Grafana Dashboard](screenshots/grafana-dashboard.png.png)
+
+
+
+\### Nginx Dashboard
+
+
+
+!\[Nginx Dashboard](screenshots/nginx-dashboard.png.png)
+
+
+
+\### CPU Alert
+
+
+
+!\[CPU Alert](screenshots/cpu-alert.png.png)
 
 
 
