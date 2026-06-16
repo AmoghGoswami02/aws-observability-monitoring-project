@@ -1,36 +1,40 @@
-\## Screenshots
+**# AWS Observability Monitoring Project**
 
 
 
-\### Prometheus Targets
+**## Screenshots**
 
 
 
-!\[Prometheus Targets](screenshots/prometheus-targets.png.png)
+**### Prometheus Targets**
 
 
 
-\### Grafana Dashboard
+**!\[Prometheus Targets](screenshots/prometheus-targets.png.png)**
 
 
 
-!\[Grafana Dashboard](screenshots/grafana-dashboard.png.png)
+**### Grafana Dashboard**
 
 
 
-\### Nginx Dashboard
+**!\[Grafana Dashboard](screenshots/grafana-dashboard.png.png)**
 
 
 
-!\[Nginx Dashboard](screenshots/nginx-dashboard.png.png)
+**### Nginx Dashboard**
 
 
 
-\### CPU Alert
+**!\[Nginx Dashboard](screenshots/nginx-dashboard.png.png)**
 
 
 
-!\[CPU Alert](screenshots/cpu-alert.png.png)
+**### CPU Alert**
+
+
+
+**!\[CPU Alert](screenshots/cpu-alert.png.png)**
 
 
 
